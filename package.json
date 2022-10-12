@@ -1,0 +1,22 @@
+{
+  "name": "jestsetup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConMint/JestSetup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConMint/JestSetup/issues"
+  },
+  "homepage": "https://github.com/ConMint/JestSetup#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
